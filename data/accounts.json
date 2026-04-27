@@ -1,0 +1,34 @@
+[
+  {
+    "accountNumber": "693958",
+    "pin": "1234",
+    "holderName": "asim",
+    "balance": 300,
+    "transactions": [
+      {
+        "id": "rn1lpunn6",
+        "type": "deposit",
+        "amount": 300,
+        "date": "2026-04-27T05:43:33.255Z",
+        "description": "Initial Deposit"
+      }
+    ],
+    "createdAt": "2026-04-27T05:43:33.255Z"
+  },
+  {
+    "accountNumber": "648774",
+    "pin": "1234",
+    "holderName": "karan",
+    "balance": 10000,
+    "transactions": [
+      {
+        "id": "znc07q653",
+        "type": "deposit",
+        "amount": 10000,
+        "date": "2026-04-27T11:53:32.515Z",
+        "description": "Initial Deposit"
+      }
+    ],
+    "createdAt": "2026-04-27T11:53:32.515Z"
+  }
+]

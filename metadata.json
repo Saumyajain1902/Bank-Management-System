@@ -1,0 +1,6 @@
+{
+  "name": "Apex Bank Management",
+  "description": "A secure full-stack banking simulation with persistent account storage, deposits, and withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
